@@ -1,5 +1,7 @@
 package djApp;
 
-public class DJ {
-
+class DJ {
+	void plaatInLaden(){
+		System.out.println("plaatje is ingeladen");
+	}
 }

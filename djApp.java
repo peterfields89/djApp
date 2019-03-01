@@ -13,6 +13,9 @@ public class djApp {
 		Zanger Jan = new Zanger();
 		Jan.zingen();
 		
+		Radio radio = new Radio();
+		radio.aanzetten();
+		
 		
 	}
 }
